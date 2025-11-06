@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Computer+Engineer+%7C+AI+Specialist+%7C+IoT+Developer;Full-Stack+Developer+%7C+Scientific+Computing;Technical+Educator+%7C+Content+Creator;Building+Intelligent+Systems+for+Tomorrow" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henock-mukonkole) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=todoist&logoColor=white)](https://henockmukonkole.netlify.app) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:henockmukonkole62@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henock-mukonkole) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=todoist&logoColor=white)](https://henockmukonkole.netlify.app) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hhnk3693@gmail.com)
 
 ---
 
@@ -38,12 +38,17 @@
 
 ## 📚 LearnHub - Educational Resources
 
-**Bridging creativity and logic through comprehensive technical education**
+**Your ultimate hub for creative exploration and intellectual growth**
 
-LearnHub serves as a comprehensive platform for creative exploration and intellectual growth, specializing in Design, Drawing, Programming, Mathematics, and Physics. The platform offers curated content that spans the intersection of creativity and technical expertise, providing resources for both emerging learners and experienced professionals.
+Welcome to LearnHub! Here, we dive into the fascinating worlds of **Design, Drawing, Programming, Mathematics, and Physics**. Purchase the eBooks on the attached links below to enhance your learning journey. 📚🌐 Whether you're a curious learner or a seasoned enthusiast, you'll find content that sparks your interest and fuels your passion for knowledge.
 
-### Educational Philosophy
-From intricate designs and technical sketches to complex programming challenges and advanced mathematical concepts, LearnHub delivers mastery-focused content covering both technical and artistic dimensions of engineering and computer science disciplines.
+### 🎯 Our Mission
+Join me as we explore the intersection of creativity and logic, where art meets science. From intricate designs and sketches to complex programming challenges and mathematical concepts, this channel is your go-to resource for mastering both the technical and artistic aspects of these fields.
+
+### 📺 Video Tutorials
+Subscribe to our [YouTube channel](https://youtube.com/@HNK2005) and explore our [comprehensive tutorial playlist](https://www.youtube.com/playlist?list=PLrZbkNpNVSwzyXZ9pyZ0JZCcaW3tMawup) for hands-on learning experiences!
+
+**Subscribe now and let's embark on this journey of learning and discovery together!**
 
 ### 📖 Published Technical eBooks
 
@@ -60,7 +65,8 @@ From intricate designs and technical sketches to complex programming challenges 
 - **[Learn Digital Systems](https://henockhnk.gumroad.com/l/dywdc)** - Digital logic design and computer architecture fundamentals
 - **[Learn Signal Processing](https://henockhnk.gumroad.com/l/smjoc)** - Signal analysis and processing techniques for engineering applications
 
-### 📦 Additional eBook Collections
+### 📦 eBook Collections
+- **[Gumroad Store](https://henockhnk.gumroad.com)** - Primary eBook marketplace
 - **[Payhip Store](https://payhip.com/HorizonLearnHub)** - Complete eBook collection and learning resources
 - **[Sellfy Store](https://henockgorgeous.sellfy.store)** - Alternative platform for educational materials
 
@@ -68,7 +74,9 @@ From intricate designs and technical sketches to complex programming challenges 
 
 ## 🌐 Professional Networks & Services
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/henock_hnk_39282) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@codingfever) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@hnkhorizon) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HNK2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henock-mukonkole) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hhnk3693@gmail.com) [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://upwork.com/freelancers/~015fe223114c9b497f) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://henockmukonkole.netlify.app)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hnk0422_76455) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hhnk.3693) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@codingfever) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@HnkHorizon) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HNK2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henock-mukonkole) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hhnk3693@gmail.com) [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://upwork.com/freelancers/~015fe223114c9b497f) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://henockmukonkole.netlify.app)
+
+📺 **Featured Playlist:** [LearnHub Tutorial Series](https://www.youtube.com/playlist?list=PLrZbkNpNVSwzyXZ9pyZ0JZCcaW3tMawup)
 
 ---
 
@@ -258,10 +266,11 @@ If these projects have provided value, consider:
 
 ### 📞 Direct Contact Channels
 
-[![Email](https://img.shields.io/badge/Primary_Email-henockmukonkole62%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:henockmukonkole62@gmail.com)
+[![Email](https://img.shields.io/badge/Primary_Email-hhnk3693%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hhnk3693@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/henock-mukonkole)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://henockmukonkole.netlify.app)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~015fe223114c9b497f)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@HNK2005)
 
 ---
 
@@ -292,7 +301,7 @@ Thank you for exploring this portfolio. Every star, fork, and contribution drive
 </div>
 
 <div align="center">
-  <sub>Last Updated: October 2025 | Continuously evolving with new projects and technologies</sub>
+  <sub>Last Updated: November 2025 | Continuously evolving with new projects and technologies</sub>
 </div>
 
 </div>
