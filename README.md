@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Computer+Engineer+%7C+AI+Specialist+%7C+IoT+Developer;Full-Stack+Developer+%7C+Scientific+Computing;Technical+Educator+%7C+Content+Creator;Building+Intelligent+Systems+for+Tomorrow" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=todoist&logoColor=white)](https://henockmukonkole.netlify.app) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hhnk3693@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hhnk3693@gmail.com)
 
 ---
 
@@ -74,7 +74,7 @@ Subscribe to our [YouTube channel](https://youtube.com/@HNK2005) and explore our
 
 ## 🌐 Professional Networks & Services
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hnk0422_76455) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hhnk.3693) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@codingfever) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@HnkHorizon) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HNK2005) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hhnk3693@gmail.com) [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://upwork.com/freelancers/~015fe223114c9b497f) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://henockmukonkole.netlify.app)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hnk0422_76455) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hhnk.3693) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@codingfever) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@HnkHorizon) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HNK2005) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hhnk3693@gmail.com) [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://upwork.com/freelancers/~015fe223114c9b497f)
 
 📺 **Featured Playlist:** [LearnHub Tutorial Series](https://www.youtube.com/playlist?list=PLrZbkNpNVSwzyXZ9pyZ0JZCcaW3tMawup)
 
@@ -320,7 +320,6 @@ If these projects have provided value, consider:
 ### 📞 Direct Contact Channels
 
 [![Email](https://img.shields.io/badge/Primary_Email-hhnk3693%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hhnk3693@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://henockmukonkole.netlify.app)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~015fe223114c9b497f)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@HNK2005)
 
