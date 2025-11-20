@@ -10,7 +10,7 @@
 
 ### 🎯 Engineering Excellence Through Innovation
 
-**Welcome to a repository showcasing the intersection of artificial intelligence, embedded systems, and full-stack development.** This profile represents a comprehensive portfolio of 50+ production-ready projects spanning AI/ML applications, IoT solutions, scientific computing platforms, and educational resources.
+**Welcome to a repository showcasing the intersection of artificial intelligence, embedded systems, and full-stack development.** This profile represents a comprehensive portfolio of 87 production-ready projects spanning AI/ML applications, IoT solutions, scientific computing platforms, and educational resources.
 
 **Core Specializations:** Artificial Intelligence • Machine Learning • Embedded Systems • IoT Development • Scientific Computing • Cross-Platform Development • Technical Education
 
@@ -32,7 +32,7 @@
 
 > 💬 **Areas of Expertise:** Software engineering, scientific computing, IoT/embedded systems, AI in education, and technical instruction.
 
-> ⚡ **Notable Achievement:** Portfolio includes 50+ technology projects spanning from AI chatbots to solar-powered IoT systems. Multilingual capabilities in English and French.
+> ⚡ **Notable Achievement:** Portfolio includes 87 technology projects spanning from AI chatbots to solar-powered IoT systems, educational platforms, and embedded systems. Multilingual capabilities in English and French.
 
 ---
 
@@ -117,49 +117,102 @@ Subscribe to our [YouTube channel](https://youtube.com/@HNK2005) and explore our
 ## 🎯 Featured Projects
 
 ### AI & Machine Learning Solutions
-- **[JobBot AI](https://github.com/HorizonHNK/JobBot-AI)** | **[Live Demo](https://jobbot-ai.netlify.app)** - AI-powered job application automation with ATS optimization
-- **[AI Interview Prep Platform](https://github.com/HorizonHNK/AI-Interview-Prep)** | **[Live Demo](https://ai-interview-prep.netlify.app)** - Interview practice system with real-time feedback
-- **[AI Resume Builder](https://github.com/HorizonHNK/AI-Resume-Builder)** | **[Live Demo](https://ai-resume-builder.netlify.app)** - Firebase-powered resume tool with Gemini AI integration
-- **[AI-Powered Brainwave Analysis](https://github.com/HorizonHNK/Brainwave-Analysis)** - ESP32-based EEG processing with ML for cognitive detection
-- **[AI Smart-Learn](https://github.com/HorizonHNK/AI-Smart-Learn)** | **[Live Demo](https://ai-smart-learn.netlify.app)** - Adaptive educational system integrating API and Firebase
+- **[JobBot AI](https://github.com/HorizonHnk/JobBot-AI---Automated-Job-Application-System)** - AI-powered job application automation with ATS optimization
+- **[AI Interview Prep Platform](https://github.com/HorizonHnk/Interview-Preparation-Platform-Web-App)** - Interview practice system with real-time feedback
+- **[AI Resume Builder](https://github.com/HorizonHnk/AI-Resume-Builder)** - Firebase-powered resume tool with Gemini AI integration
+- **[AI-Powered Brainwave Analysis](https://github.com/HorizonHnk/AI-Powered-Brainwave-Analysis-Project)** - ESP32-based EEG processing with ML for cognitive detection
+- **[Gemini AI Assistant](https://github.com/HorizonHnk/Gemini-AI-Assistant---Intelligent-Voice-Companion)** - Intelligent voice companion powered by Gemini AI
+- **[AI Smart-Learn](https://github.com/HorizonHnk/Smart-Learn)** - Adaptive educational system integrating API and Firebase
+- **[AI-Powered Educational Platform](https://github.com/HorizonHnk/AI-Powered-Educational-Platform)** - Comprehensive learning management system with AI features
+- **[AI-Powered Personalised Learning Platform](https://github.com/HorizonHnk/AI-Powered-Personalised-Learning-Platform)** - Customized learning experiences powered by AI
+- **[AI-Driven Air Quality Health Monitor](https://github.com/HorizonHnk/AI-Driven-Air-Quality-Health-Monitor)** - AI-based health monitoring through air quality analysis
+- **[AI-Powered Eldercare Solutions](https://github.com/HorizonHnk/AI-Powered-Eldercare-Solutions)** - Intelligent elderly care management system
+- **[SecureGate AI Authentication System](https://github.com/HorizonHnk/SecureGate-AI-Authentication-System)** - AI-powered security authentication platform
+- **[SQLGenius](https://github.com/HorizonHnk/SQLGenius---AI-Powered-MySQL-Generator)** - AI-powered MySQL code generator from scenarios
+- **[AI Multi-Feature App](https://github.com/HorizonHnk/AI-Multi-Feature-App-with-ReactJS-Vite)** - Text, image, audio, chat, scan, and analysis features using Hugging Face APIs
 
 ### IoT & Embedded Systems
-- **[Automatic Solar Panel Cleaning System](https://github.com/HorizonHNK/Solar-Panel-Cleaning)** | **[Live Demo](https://solar-panel-cleaning.netlify.app)** - ESP32-powered autonomous cleaning robot
-- **[ESP32 Weather Station](https://github.com/HorizonHNK/ESP32-Weather-Station)** - Node-RED/ESP32-based sensor system with web monitoring
-- **[Environmental Monitoring Station](https://github.com/HorizonHNK/Environmental-Monitoring)** | **[Live Demo](https://environmental-monitoring.netlify.app)** - Web/ESP32-based comprehensive sensor system
-- **[Smart Home Automation](https://github.com/HorizonHNK/Smart-Home-Automation)** - Web/ESP32-based AI-powered home control system
-- **[Smart Building Automation](https://github.com/HorizonHNK/Smart-Building)** | **[Live Demo](https://smart-building.netlify.app)** - Cross-platform IoT-based control system
+- **[Smart Building Automation System](https://github.com/HorizonHnk/Smart-Building-Automation-System)** - ESP32-based wireless control with real-time monitoring and Firebase integration
+- **[ESP32 Weather Monitoring System](https://github.com/HorizonHnk/ESP32-Weather-Monitoring-System)** - Advanced atmospheric data collection platform
+- **[ESP32 AI-Powered Air Quality System](https://github.com/HorizonHnk/ESP32-AI-Powered-Air-Quality-Monitoring-System)** - AI-enhanced environmental monitoring with ESP32
+- **[ESP32 Smart Door Control System](https://github.com/HorizonHnk/ESP32-Smart-Door-Control-System)** - IoT-based access control system
+- **[ESP32 MQ135 Air Quality Monitor](https://github.com/HorizonHnk/ESP32-MQ135-Air-Quality-Monitoring-System)** - Gas sensor-based air quality tracking
+- **[ESP32 Dual-Sensor Weather Station](https://github.com/HorizonHnk/ESP32-Weather-Station---Dual-Sensor-Monitoring-System)** - Multi-sensor weather monitoring platform
+- **[ESP32-Based Weather Station](https://github.com/HorizonHnk/ESP32-Based-Weather-Station)** - Comprehensive weather data collection system
+- **[Smart Water Flow Meter](https://github.com/HorizonHnk/Smart-Water-Flow-Meter---STM32-IoT-Device)** - STM32-powered IoT water flow monitoring
+- **[Automatic Solar Panel Cleaning System](https://github.com/HorizonHnk/Automatic-Solar-Panel-Cleaning-System)** - Autonomous solar panel maintenance robot
+- **[Solar PV Cleaning System](https://github.com/HorizonHnk/Solar-PV-Cleaning-System)** - Solar photovoltaic cleaning automation
+- **[Environmental Monitoring Station](https://github.com/HorizonHnk/Environmental-Monitoring-Station)** - Comprehensive environmental sensor system
+- **[Arduino Environmental Monitoring](https://github.com/HorizonHnk/Arduino-Environmental-Monitoring-Station-)** - Arduino-based environmental tracking
+- **[NodeRED Environmental Dashboard](https://github.com/HorizonHnk/NodeRED-Environmental-Dashboard)** - Real-time environmental data visualization
+- **[AI-Based Smart Home Automation](https://github.com/HorizonHnk/AI-Based-Smart-Home-Automation-System)** - AI-powered home control and automation
+- **[Intelligent Elderly Care Medication Assistant](https://github.com/HorizonHnk/-Intelligent-Elderly-Care-Medication-Assistant)** - IoT-based medication management system
+- **[Rainwater Harvesting System](https://github.com/HorizonHnk/Rainwater-Harvesting-System-with-PWM-Pump-Controller)** - PWM-controlled water collection system
+- **[PWM Rainwater Harvesting](https://github.com/HorizonHnk/PWM-Controlled-Rainwater-Harvesting-System)** - Smart rainwater management
+- **[Smart Home Water Conservation](https://github.com/HorizonHnk/Smart-Home-Water-Conservation-System)** - IoT water conservation platform
+- **[Embedded Water Management Systems](https://github.com/HorizonHnk/Embedded-Water-Management-Systems)** - Comprehensive water management solutions
+- **[IR-Based Parking Management](https://github.com/HorizonHnk/IR-Based-Parking-Management-System)** - Infrared sensor parking automation
+- **[Parking System with IR Sensors](https://github.com/HorizonHnk/Parking-Management-System-with-IR-Sensors)** - Smart parking space management
+- **[Washing Machine Control System](https://github.com/HorizonHnk/Washing-Machine-Control-System)** - Automated washing machine controller
+- **[Remote Car Control System](https://github.com/HorizonHnk/Remote-Car-Control-System)** - IoT-based vehicle remote control
 
 ### Industrial & Scientific Computing
-- **[FM Technology for Food Production](https://github.com/HorizonHNK/FM-Food-Production)** - FM-based industrial sensor control and automation
-- **[Battery Energy Storage System](https://github.com/HorizonHNK/Battery-Energy-Storage)** - Thermal management control with fault isolation
-- **[Hybrid Solar Power System](https://github.com/HorizonHNK/Hybrid-Solar-Power)** - Hardware/simulation power management system
-- **[Signal Processing Calculator](https://github.com/HorizonHNK/Signal-Processing-Calculator)** | **[Live Demo](https://signal-processing.netlify.app)** - Cross-platform process control and mathematical platform
+- **[Control Systems](https://github.com/HorizonHnk/Control-Systems)** - Advanced control theory and system design
+- **[FM Technology for Food Production](https://github.com/HorizonHnk/FM-Technology-for-Automated-Food-Production-Control-Systems)** - Automated industrial food production control
+- **[IEC-61850 Busbar Protection System](https://github.com/HorizonHnk/IEC-61850-Standard-Busbar-Protection-System)** - Industrial electrical protection standard implementation
+- **[Battery Energy Storage System](https://github.com/HorizonHnk/Battery-Energy-Storage-System-BESS-Thermal-Management-Control-Scheme)** - BESS thermal management and control
+- **[Solar Power Management System](https://github.com/HorizonHnk/Solar-Power-Management-System-)** - Advanced solar energy management
+- **[PV Solar System for Education](https://github.com/HorizonHnk/PV-Solar-System-for-Educational-Purpose)** - Educational solar photovoltaic platform
+- **[Car Dual Battery Charging Device](https://github.com/HorizonHnk/A-Car-Dual-12V-Lead-Acid-Batteries-Charging-Device)** - Dual 12V lead-acid battery charging system
+- **[Signal Processing Calculator Suite](https://github.com/HorizonHnk/Signal-Processing-Calculator-Suite)** - Comprehensive signal processing tools
+- **[Advanced Engineering Math Solver](https://github.com/HorizonHnk/advanced-engineering-math-solver)** - Engineering mathematics computational platform
+- **[Enhanced Weather Pollution Dashboard](https://github.com/HorizonHnk/Enhanced-Weather-Pollution-Dashboard)** - Environmental data analysis and visualization
 
 ### Web Applications & Platforms
-- **[Domain Registrar Comparison Tool](https://github.com/HorizonHNK/Domain-Comparison)** | **[Live Demo](https://domain-comparison.netlify.app)** - Domain and hosting price comparison application
-- **[LibraryCore Management System](https://github.com/HorizonHNK/LibraryCore)** - MySQL library management with database automation
-- **[Fix Master App](https://github.com/HorizonHNK/Fix-Master)** | **[Live Demo](https://fix-master.netlify.app)** - Cross-platform repair booking platform
-- **[NetCore Systems](https://netcore-systems.netlify.app)** - Professional IT services website for network infrastructure
-- **[GlamGalore Beauty](https://glamgalore-beauty.netlify.app)** - E-commerce platform for hair and skincare products
+- **[Paris Tourism Platform](https://github.com/HorizonHnk/Paris_Tourism)** - Interactive Paris tourism and travel guide
+- **[Paris Tourism](https://github.com/HorizonHnk/Paris-Tourism)** - Comprehensive Paris city tourism platform
+- **[Cape Town Tourism Platform](https://github.com/HorizonHnk/capetown-tourism-platform)** - Cape Town tourism and travel guide
+- **[Domain Registrar Comparison Tool](https://github.com/HorizonHnk/Domain-Registrar-Comparison-Tool)** - Domain and hosting price comparison platform
+- **[LibraryCore Management System](https://github.com/HorizonHnk/-LibraryCore-Management-System)** - MySQL library management automation
+- **[Fix Master App](https://github.com/HorizonHnk/Fix-Master-App)** - Cross-platform repair services booking
+- **[DeviceDoctor](https://github.com/HorizonHnk/DeviceDoctor)** - Device repair tracking and management platform
+- **[YouTube Summarizer](https://github.com/HorizonHnk/Youtube-Summarizer)** - AI-powered video content summarization
+- **[YouTube Summarizer Backend](https://github.com/HorizonHnk/youtube-summarizer-backend)** - Backend API for video summarization
+- **[TutorConnect](https://github.com/HorizonHnk/TutorConnect---Professional-Services-Platform)** - Professional tutoring services platform
+- **[Coffee Truck Data Analysis](https://github.com/HorizonHnk/Coffee-Truck-Data-Analysis-Steamlit-Python-Excel)** - Streamlit-based business analytics
+- **[Streamlit Demo App](https://github.com/HorizonHnk/Streamlit-Demo-App-Interactive-Web-Apps-with-Python)** - Interactive Python web applications
+- **[Steam Platform](https://github.com/HorizonHnk/Steam)** - Steam platform integration
+- **[Steam-lit](https://github.com/HorizonHnk/Steam-lit)** - Streamlit application framework
+- **[Advanced SQL Database Management](https://github.com/HorizonHnk/Advanced-SQL-Database-Management)** - Database administration and management tools
+- **[Education Management System](https://github.com/HorizonHnk/edu-management-system)** - Comprehensive school management platform
 
 ### Desktop & Cross-Platform Applications
-- **[JavaFX Multimedia Hub](https://github.com/HorizonHNK/JavaFX-Multimedia-Hub)** | **[Download](https://github.com/HorizonHNK/JavaFX-Multimedia-Hub/releases)** - Desktop platform with 8 games and AI chatbot
-- **[HNK Portfolio App](https://github.com/HorizonHNK/Portfolio-App)** | **[Web](https://henockmukonkole.netlify.app)** | **[Android](https://github.com/HorizonHNK/Portfolio-App/releases)** | **[ChatBot](https://henockmukonkole.netlify.app/chatbot)** - Cross-platform portfolio with AI chatbot
-- **[SQL Generator](https://github.com/HorizonHNK/SQL-Generator)** - AI-powered MySQL code generator from scenarios and tables
-- **[WebGL Playground](https://github.com/HorizonHNK/WebGL-Playground)** | **[Live Demo](https://webgl-playground.netlify.app)** - Interactive JS, GLSL, and HTML learning platform
+- **[Java-FX Hub](https://github.com/HorizonHnk/Java-FX-Hub)** - JavaFX multimedia platform with games and AI features
+- **[MediaPlayground LearnHub](https://github.com/HorizonHnk/MediaPlayground-LearnHub---Educational-Platform)** - Educational multimedia platform
+- **[HNK Portfolio App](https://github.com/HorizonHnk/HNK-Portfolio-App-Your-Gateway-to-My-Professional-World)** - Cross-platform professional portfolio
+- **[Educational Gaming App](https://github.com/HorizonHnk/Educational-Gaming-App---ReactJS-WebGL)** - ReactJS and WebGL educational games
+- **[WebGL Applications](https://github.com/HorizonHnk/WebGL-Applications-)** - 3D graphics applications using WebGL
+- **[Advanced Calculator](https://github.com/HorizonHnk/Advanced-Calculator---Two-Implementations)** - Dual-implementation calculator (HTML/CSS/JS and React/Vite)
+- **[React Vite Mobile Setup Guide](https://github.com/HorizonHnk/React-Vite-Mobile-Setup-Guide-)** - Mobile development setup documentation
+- **[React Vite Tailwind CSS 4.0 Setup](https://github.com/HorizonHnk/React-Vite-Tailwind-CSS-4.0-Setup)** - Modern React development setup
+- **[MINGW Bash Commands & Games](https://github.com/HorizonHnk/MINGW---Bash-Commands-and-Games-Collection)** - Command-line tools and games collection
+- **[Jupyter Bike Rental Analysis](https://github.com/HorizonHnk/jupyter-Bike-Rental-Analysis-)** - Data analysis with Jupyter notebooks
+- **[Tailwind CSS Version Update Fix](https://github.com/HorizonHnk/Tailwind-CSS-Version-Update-Fix)** - CSS framework migration guide
 
 ### Educational Resources & Guides
-- **[Cross-Platform Dev Guide](https://github.com/HorizonHNK/Cross-Platform-Guide)** - Comprehensive framework comparison for Flutter, React Native, Unity
-- **[Embedded AI Platform Guide](https://github.com/HorizonHNK/Embedded-AI-Guide)** - AI/ML deployment guide for microcontrollers
-- **[STM32 Microcontroller](https://github.com/HorizonHNK/STM32-Guide)** | **[Live Demo](https://stm32-guide.netlify.app)** - Interactive learning platform for embedded systems
-- **[C Programming](https://github.com/HorizonHNK/C-Programming-Guide)** | **[Live Demo](https://c-programming-guide.netlify.app)** - Cross-platform educational tool for C programming and geometry
-- **[Technical Tutoring Services](https://technical-tutoring.netlify.app)** - Comprehensive tutoring platform with booking system
+- **[Educational Materials](https://github.com/HorizonHnk/Educational-Materials)** - Comprehensive technical eBooks on engineering and technology
+- **[Conference Papers](https://github.com/HorizonHnk/Conference-Papers)** - Academic research and conference publications
+- **[Cross-Platform Development Guide 2025](https://github.com/HorizonHnk/Cross-Platform-Development-Frameworks-Guide-2025)** - 15+ framework analysis with benchmarks and migration strategies
+- **[Embedded AI Platform Guide](https://github.com/HorizonHnk/Embedded-AI-Platform-Guide)** - AI/ML deployment for microcontrollers
+- **[STM32 Embedded Systems Repository](https://github.com/HorizonHnk/STM32-Embedded-Systems-Learning-Repository)** - Comprehensive STM32 learning resources
+- **[C Programming Geometry Calculator](https://github.com/HorizonHnk/C-Programming-Geometry-Calculator-)** - Educational C programming tool
+- **[WebGL Mastery](https://github.com/HorizonHnk/WebGL-Mastery-From-Basics-to-Advanced-3D-Graphics)** - Complete WebGL learning guide
+- **[Television Broadcasting Technology Guide](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide)** - Broadcasting systems and RF technology
+- **[Engineering Project Assistance](https://github.com/HorizonHnk/engineering-project-assistance)** - Engineering project support and resources
 
 ### Network & Broadcasting Systems
-- **[Broadcast Communication System](https://github.com/HorizonHNK/Broadcast-System)** | **[Live Demo](https://broadcast-system.netlify.app)** - TV/RF broadcasting and network design
-- **[Network Lab](https://github.com/HorizonHNK/Network-Lab)** - Virtual network topologies with OSPF, EIGRP, BGP, MPLS and traffic optimization
-- **[Embedded Remote Car System](https://github.com/HorizonHNK/Remote-Car-System)** - Hardware/simulation with live video streaming
+- **[Broadcast Technologies Communication System](https://github.com/HorizonHnk/Broadcast-Technologies-Communication-System)** - TV/RF broadcasting and network design
+- **[Practical Network Systems Routing Protocols](https://github.com/HorizonHnk/Practical-Network-Systems-Routing-Protocols)** - Network routing and protocol implementation
 
 ---
 
@@ -301,7 +354,11 @@ Thank you for exploring this portfolio. Every star, fork, and contribution drive
 </div>
 
 <div align="center">
-  <sub>Last Updated: November 2025 | Continuously evolving with new projects and technologies</sub>
+  <sub>Last Updated: November 20, 2025 | 87 Active Repositories | Continuously evolving with new projects and technologies</sub>
+</div>
+
+<div align="center">
+  <sub>💼 Company: MindBuilders | 🌍 Based in Cape Town, South Africa</sub>
 </div>
 
 </div>
